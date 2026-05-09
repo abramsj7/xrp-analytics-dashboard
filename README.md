@@ -1,8 +1,4 @@
-# XRP‐USD Explorer (Dash Application)
-
-**Author:** Jordon Abrams 
-
-**Date:** June 4, 2025  
+# XRP Analytics Dashboard
 
 ---
 
@@ -36,7 +32,7 @@ This application is designed to be explanatory—helping users understand price 
 ## 2. Folder Structure
 
 ```
-xrp-dash-app/
+xrp-analytics-dashboard/
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -95,17 +91,17 @@ Follow these steps to run the XRP Explorer locally. These instructions assume yo
   - Open a terminal or command prompt, then "cd" to the file path and run:
 
   ```
-  git clone https://github.com/abramsj7/xrp-dash-app.git
+  git clone https://github.com/abramsj7/xrp-analytics-dashboard.git
   ```
 
    - Once you have downloaded xrp-dash-app to  that file path, "cd" to the xrp-dash-app folder:
    ```
-   cd xrp-dash-app
+   cd xrp-analytics-dashboard
    ```
   
 - Option B (without Git)
 
-  - Go to https://github.com/abramsj7/XRP-Dash-App
+  - Go to https://github.com/abramsj7/XRP-analytics-dashboard
 
   - Click Code → Download ZIP
 
